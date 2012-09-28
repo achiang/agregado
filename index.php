@@ -18,7 +18,7 @@
 					
 			<p class="postmetadata">Posted <em>by</em> <?php the_author(); ?> <em>on</em> <?php the_time('M j, Y') ?> &bull; <span class="commentcount">(<a href="<?php the_permalink(); ?>#commentarea"><?php comments_number('0', '1', '%'); ?></a>)</span></p>
 				
-			<?php the_excerpt(); ?>
+			<?php the_content(); ?>
 
                 </div><!--END LATEST-->
 
