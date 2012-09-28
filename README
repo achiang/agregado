@@ -1,0 +1,24 @@
+Agregado Wordpress Theme
+========================
+Initial commit was v1.2, downloaded from:
+<http://www.darrenhoyt.com/2008/09/08/agregado-lifestream-theme-for-wordpress-released/>
+
+I found this theme while looking to update my WordPress blog, and thought
+it would be a good base to build off of. Posting here on github since the
+original theme hasn't been updated since 2008, and perhaps other people
+might want some bug fixes too.
+
+The licensing is ... strange. `licensecheck -r` finds a BSD 3-clause file,
+a GPL-2 file, a bunch of non-licensed files, while the main CSS file just
+says "GPL".
+
+Even better, according to:
+<http://www.smashingmagazine.com/2008/09/08/agregado-a-free-wordpress-theme/>
+
+> "if you are planning to release your modification, please ask our
+> permission first."
+
+Along with a bunch of other GPL-violating text.
+
+I choose to ignore the non-legal text, accept this theme in the spirit of
+GPL-2, and consider all my commits under GPL-2 as well.
